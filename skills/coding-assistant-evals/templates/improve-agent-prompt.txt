@@ -1,0 +1,8 @@
+Improve {{agent_version}} for the observed failure cluster below.
+AGENT PROMPT / TOOLS: {{agent_config}}
+REVIEWED FAILURES + CORRECT COUNTEREXAMPLES: {{reviewed_cases}}
+EVALUATOR / RUBRIC: {{frozen_evaluator}}
+CONSTRAINTS / APPROVED MODEL AND BUDGET: {{constraints}}
+
+Diagnose the likely cause from evidence. Propose the smallest change: prompt, examples, data/tool contract, model, narrower scope, routing or a subagent if justified. Change one material factor first. Do not simply add every judge rule to every prompt.
+Compare baseline and candidate on the same frozen dev cases. Report fixed failures, new regressions, per-category results, invalid runs, cost and latency. Preserve versions and unsuccessful experiments. Do not tune on the held-out test or deploy without the relevant task authorization.

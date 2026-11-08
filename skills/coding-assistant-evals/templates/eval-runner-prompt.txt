@@ -1,0 +1,4 @@
+Create an eval script for {{cases_csv}} using {{judge_prompt_file}} and {{approved_model}} within {{budget_cap}}.
+Join saved outputs with independent expert labels by id + error_type. Keep expert labels/notes out of judge input. TRAIN examples may enter the prompt; dev/test examples may not. Preserve prompt/dataset/rubric versions and group related cases within one split.
+Validate structured judge output. Record ineligible, API/parse errors and missing results explicitly; use bounded retries and stop before the budget cap. Cache by input + prompt + model config hash. Never send emails or execute production tools.
+Report positive=fail confusion counts, agreement, failure precision/recall, specificity, coverage and per-error/category counts using the provided eval_metrics.py. Reject duplicates and mixed versions/splits. Show FP/FN examples. Do not present an unrun script or synthetic labels as measured human alignment.

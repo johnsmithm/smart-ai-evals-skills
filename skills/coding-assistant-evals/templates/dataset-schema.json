@@ -1,0 +1,25 @@
+{
+  "id": "case-001",
+  "feature": "answer_from_sources",
+  "role": "authorized_user",
+  "scenario": "essential_date_missing",
+  "input": {
+    "message": "When does the updated process begin?",
+    "history": [],
+    "source_ids": [
+      "policy-v2"
+    ]
+  },
+  "reference_evidence": {
+    "expected_behavior": "State that the start date is absent and request the missing date or escalation.",
+    "source_snapshot": "policy-v2-sha256-placeholder",
+    "error_type": "unsupported_date",
+    "review_note": "This label applies to the saved prediction, not the input alone.",
+    "fixture_status": "fail"
+  },
+  "saved_prediction": "The updated process begins Monday.",
+  "split": "dev",
+  "provenance": "synthetic_fixture",
+  "manual_review": false,
+  "reference_review": "pending"
+}

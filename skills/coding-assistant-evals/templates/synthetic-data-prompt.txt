@@ -1,0 +1,10 @@
+Generate {{count}} synthetic test inputs for this product.
+SCOPE / TOOL CONTRACTS: {{scope}}
+VERSIONED FACTS / STATE: {{facts}}
+FEATURES: {{features}}
+ROLES: {{roles}}
+SCENARIOS / COVERAGE GAPS: {{scenarios}}
+
+First choose plausible feature × role × scenario combinations. Then write realistic messages and history, including the requested edge cases. Use only the supplied facts. Do not include the answer or evaluator label in product input.
+For each return id, feature, role, scenario, message, history, expected_behavior, evidence_ids, snapshot_id, near_duplicate_group, provenance=synthetic, reference_review=pending.
+Missing facts may require clarification, abstention or escalation. Keep reference evidence separate. Do not invent executed tool results or claim human review. Report uncovered combinations and unverifiable references.

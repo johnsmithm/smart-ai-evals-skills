@@ -1,0 +1,29 @@
+{
+  "provenance": "synthetic_fixture",
+  "id": "rag-001",
+  "evidence_unit": "stable page-level fact IDs",
+  "required": [
+    "fact-a",
+    "fact-b",
+    "fact-c"
+  ],
+  "retrieved": [
+    "fact-a",
+    "fact-x",
+    "fact-b"
+  ],
+  "correct_retrieved": [
+    "fact-a",
+    "fact-b"
+  ],
+  "wrong_retrieved": [
+    "fact-x"
+  ],
+  "missed": [
+    "fact-c"
+  ],
+  "recall": 0.6666666666666666,
+  "precision_returned": 0.6666666666666666,
+  "all_required_covered": false,
+  "note": "Map chunks to stable evidence IDs before comparing different chunk sizes. This fixture uses unique IDs and no duplicate overlap."
+}

@@ -1,0 +1,10 @@
+{
+  "retrieved_ids": [
+    "doc-a",
+    "doc-b"
+  ],
+  "cited_ids": [
+    "doc-a",
+    "doc-z"
+  ]
+}

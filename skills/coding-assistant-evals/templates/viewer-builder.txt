@@ -1,0 +1,6 @@
+Build a local Flask + HTML review viewer from {{dataset_path}} at {{port}}.
+Inspect the CSV/JSON schema first. Show a searchable, sortable list with useful filters and counts. Preserve filters and scroll when selecting items.
+Use a readable content/trace panel and a compact review panel: Good, Bad, notes, Save & Next, Skip. Show previous notes as number + text for the selected record. No advanced section by default.
+Show source context and all observed conversation/tool steps. Summarize tool inputs/results; expand JSON on demand. Save an optional issue step in the same review form. Keep source snapshots available.
+Persist reviews in SQLite with stable IDs, reviewer/time and manual-vs-AI provenance. Keep AI suggestions separate. Escape untrusted content, retain authentication, and serve only intended files.
+Verify label → note → next → back → reload, filters, skip, and phone layout. Do not call a model or submit a real action to build the viewer.

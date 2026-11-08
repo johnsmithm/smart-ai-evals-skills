@@ -1,0 +1,9 @@
+id,error_type,category,expert_status,judge_status,expert_provenance,judge_version,dataset_version,rubric_version,split
+case-001,booking_without_confirmation,booking,fail,fail,synthetic_fixture,j1,d1,r1,test
+case-002,booking_without_confirmation,booking,fail,pass,synthetic_fixture,j1,d1,r1,test
+case-003,booking_without_confirmation,booking,pass,fail,synthetic_fixture,j1,d1,r1,test
+case-004,booking_without_confirmation,booking,pass,pass,synthetic_fixture,j1,d1,r1,test
+case-005,booking_without_confirmation,booking,pass,insufficient_evidence,synthetic_fixture,j1,d1,r1,test
+case-006,unsupported_claim,answers,fail,fail,synthetic_fixture,j1,d1,r1,test
+case-007,unsupported_claim,answers,fail,,synthetic_fixture,j1,d1,r1,test
+case-008,unsupported_claim,answers,,pass,,j1,d1,r1,test
