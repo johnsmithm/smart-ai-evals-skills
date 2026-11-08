@@ -3,7 +3,7 @@ name: coding-assistant-evals
 description: "Choose and apply a practical AI evaluation workflow: inspect traces, discover failures, build focused evaluators, calibrate judges or compare improvements. Use for AI evals work when the next step is unclear."
 ---
 
-<!-- Modified file. See NOTICE.md and LICENSE at the package root. -->
+<!-- Modified file. See LICENSE at the package root. -->
 
 
 # Evals: analyze, measure, improve

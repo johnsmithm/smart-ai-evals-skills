@@ -3,7 +3,7 @@ name: smartai-evaluate-rag
 description: "Evaluate a RAG system by separating retrieval evidence coverage from generated-answer faithfulness, correctness and completeness. Use for diagnosing chunking, search, filters, reranking or generation failures."
 ---
 
-<!-- Modified file. See NOTICE.md and LICENSE at the package root. -->
+<!-- Modified file. See LICENSE at the package root. -->
 
 
 # Find which part of RAG failed

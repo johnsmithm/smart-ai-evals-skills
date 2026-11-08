@@ -3,7 +3,7 @@ name: smartai-validate-evaluator
 description: "Validate a code evaluator or LLM judge against independent domain-expert labels, diagnose false positives and false negatives, and report class-specific agreement on held-out data."
 ---
 
-<!-- Modified file. See NOTICE.md and LICENSE at the package root. -->
+<!-- Modified file. See LICENSE at the package root. -->
 
 
 # Validate the evaluator before trusting its score

@@ -6,10 +6,9 @@
   "fixture_results": "Teaching arithmetic only; no model run or human study.",
   "files": {
     "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
-    "NOTICE.md": "2762c22c2882e8929a78adf43fda38c8f29adf3583b67b16e8b9df3cee07054c",
     "README.md": "060caf8e300cc7570ac0147cb9acb83266496761404d6b59d29c175f621e462f",
     "index.html": "48c2432f654f3ad6abf6fecf9cbba3e9b3f4ed57026744e2bab76a40d4653a4b",
-    "skills/coding-assistant-evals/SKILL.md": "9df1fccd98c9a4deeedd81411ef98cacee9ae3d0e66ca636fa1653b4db7494e6",
+    "skills/coding-assistant-evals/SKILL.md": "2ad0eaa258af923e56ebd6766415d74fdbabb8c9c2dd0df99b62bb61f5f57a79",
     "skills/coding-assistant-evals/references/data-contract.md": "f9672514a9e1f7504fd449f96c32aa48516a08b7ed11c756e00095e79317e328",
     "skills/coding-assistant-evals/references/metrics.md": "4e555ee0716d147cc6a571dba397c8d2c494059e13ece4c22fae8fc4aab154bb",
     "skills/coding-assistant-evals/references/review-contract.md": "7277d3e31fbc48355d71770509c5f87c99e7f245cfdcc434dc8f7df38169bf57",
@@ -29,13 +28,13 @@
     "skills/coding-assistant-evals/templates/synthetic-data-prompt.txt": "0531647241fb5e250e1ad0ad41f0b6fd30702ee5cbcbf86d9c9cb486cd998168",
     "skills/coding-assistant-evals/templates/taxonomy-prompt.txt": "4bd43415ca984222bdf896a2cc10c5d499c2d5dcd5b74d68be2e92bd40d79381",
     "skills/coding-assistant-evals/templates/viewer-builder.txt": "2cd8d84e3bbafc20e3650936979b92a6e2a710b5eb4deb06c59392bb7205ef56",
-    "skills/smartai-code-eval/SKILL.md": "8106db73cfb80b31c3eb0709385579547520f19fda9a8e461cc473b9f99afc86",
-    "skills/smartai-error-discovery/SKILL.md": "4a317a7d22329a6feeba6e860605363999f7d2902794b2f2e40c989742e59a9e",
-    "skills/smartai-eval-audit/SKILL.md": "25eab226f0e3fe94a94bb86b7270abca6f95fea8f00e5a94ccd9debe47d659dd",
-    "skills/smartai-evaluate-rag/SKILL.md": "09a48c73b5f1257f8b2b0e100900c6ef5fe63d6d6ef39333d9b00f22bed287d6",
-    "skills/smartai-judge-prompt/SKILL.md": "e97c02d4a309e65688cd36ed94875e1d47da9f4009cdaf0950fd2248483023e2",
-    "skills/smartai-review-interface/SKILL.md": "4551dfae9d134102c372b7d5d3e3b544500f19984c5027ab5eb8aa4f3cf9d8f1",
-    "skills/smartai-synthetic-data/SKILL.md": "df8ac3f873914b62f2508a790f8a27972ba54f4d59f277435f1332a09031cdc0",
-    "skills/smartai-validate-evaluator/SKILL.md": "ff37c34fa2f199fe67dca77a3d0204c3497956712e7246b5cb52ca8383ecfe6d"
+    "skills/smartai-code-eval/SKILL.md": "cf730fa1bf733704e79fa8309a8a0136fb0f676bd7fedb82494e05aeada72d79",
+    "skills/smartai-error-discovery/SKILL.md": "37b8e3a0e8170e55fd47e687ac88465db84e57eac83e265a1d8db74469113e81",
+    "skills/smartai-eval-audit/SKILL.md": "52657b13868faac5dc91a7c6e3e36b278e3caf825da917f939cd7770d1f3a1c5",
+    "skills/smartai-evaluate-rag/SKILL.md": "4f9cdfca786043d461c9accb0ab544e6bedd6afdc21b280f228975512fdf70b6",
+    "skills/smartai-judge-prompt/SKILL.md": "2e524c34b4f05daa9a9fa74f8321dd5bfc6a0b5e8067ae38cdc112d7a8d59b5b",
+    "skills/smartai-review-interface/SKILL.md": "5b985bc9f3cc7825230e91877d3e44d4b93bbfbf65ffa03d1d34f99f66c7d31a",
+    "skills/smartai-synthetic-data/SKILL.md": "310c7b3541ad905183fe6d7ecc22043f3223cf8f4e35dfff3a9ceac7a795ca78",
+    "skills/smartai-validate-evaluator/SKILL.md": "acec1126e74fc6ea18e91f6d5c06b7a06290281afbfc7d481c41f60e3cc6307f"
   }
 }

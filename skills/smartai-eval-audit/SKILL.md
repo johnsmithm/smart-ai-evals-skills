@@ -3,7 +3,7 @@ name: smartai-eval-audit
 description: "Audit an existing LLM evaluation system for misleading metrics, weak labels, leakage, unvalidated judges and missing failure coverage. Use when assessing whether existing eval results support a decision."
 ---
 
-<!-- Modified file. See NOTICE.md and LICENSE at the package root. -->
+<!-- Modified file. See LICENSE at the package root. -->
 
 
 # Audit the evidence behind the score

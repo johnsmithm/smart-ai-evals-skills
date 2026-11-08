@@ -3,7 +3,7 @@ name: smartai-error-discovery
 description: "Discover application-specific AI failure types from human trace reviews, organize notes into a taxonomy and suggest diverse cases to inspect next. Use before choosing or revising quality evaluators."
 ---
 
-<!-- Modified file. See NOTICE.md and LICENSE at the package root. -->
+<!-- Modified file. See LICENSE at the package root. -->
 
 
 # Discover errors before scoring them

@@ -3,7 +3,7 @@ name: smartai-review-interface
 description: "Build or improve a compact HTML trace and output review interface with filters, evidence panels and persistent Good/Bad notes. Use for human annotation of CSV/JSON AI outputs or agent traces."
 ---
 
-<!-- Modified file. See NOTICE.md and LICENSE at the package root. -->
+<!-- Modified file. See LICENSE at the package root. -->
 
 
 # Make the evidence easy to review

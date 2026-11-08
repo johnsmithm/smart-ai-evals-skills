@@ -3,7 +3,7 @@ name: smartai-code-eval
 description: "Implement a deterministic evaluator for an objective AI-output or tool-trace failure. Use for schema, citation ID, argument, permission or exact-value contracts; use a judge when meaning must be interpreted."
 ---
 
-<!-- Modified file. See NOTICE.md and LICENSE at the package root. -->
+<!-- Modified file. See LICENSE at the package root. -->
 
 
 # One objective rule, one check

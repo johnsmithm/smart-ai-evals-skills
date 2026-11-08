@@ -3,7 +3,7 @@ name: smartai-judge-prompt
 description: "Write or revise an LLM judge for one observed failure requiring interpretation, using domain-expert rules, contrasting examples and cited trace evidence. Use after a failure boundary has been identified."
 ---
 
-<!-- Modified file. See NOTICE.md and LICENSE at the package root. -->
+<!-- Modified file. See LICENSE at the package root. -->
 
 
 # A judge for one error type

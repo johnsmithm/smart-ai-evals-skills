@@ -3,7 +3,7 @@ name: smartai-synthetic-data
 description: "Generate and verify synthetic AI test inputs from feature, role and scenario coverage plus authoritative facts. Use when starting without traffic, filling dataset gaps or testing a known failure."
 ---
 
-<!-- Modified file. See NOTICE.md and LICENSE at the package root. -->
+<!-- Modified file. See LICENSE at the package root. -->
 
 
 # Generate useful cases, not automatic truth
